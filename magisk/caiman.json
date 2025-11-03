@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "full": {
-    "location_ota": "https://github.com/Creaous/ota/releases/download/2025102801/caiman-2025102801-3a9fc62-magisk-canary-30400.zip",
-    "location_csig": "https://github.com/Creaous/ota/releases/download/2025102801/caiman-2025102801-3a9fc62-magisk-canary-30400.zip.csig"
-  }
-}
